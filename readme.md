@@ -8,9 +8,10 @@ pip install opencv-contrib-python
 
 pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.99-cp310-cp310-win_amd64.whl
 
-4)keep your "dog_nose.png" file , your python script "face_filter.py" file and yours "shape_predictor_68_face_landmarks.dat" file in the same folder 
 
-5)simply run your "face_filter.py" file by double-clicking on it and observe the results
+4. keep your "dog_nose.png" file , your python script "face_filter.py" file and yours "shape_predictor_68_face_landmarks.dat" file in the same folder 
+
+5. simply run your "face_filter.py" file by double-clicking on it and observe the results
 
 
 
