@@ -12,3 +12,7 @@ pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.9
 
 5)simply run your "face_filter.py" file by double-clicking on it and observe the results
 
+
+
+
+<img width="614" alt="result (1)" src="https://user-images.githubusercontent.com/110539303/182619581-9b174c33-c209-46a7-b116-50325e3f89fb.png">
