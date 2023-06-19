@@ -13,6 +13,13 @@ pip install https://github.com/jloh02/dlib/releases/download/v19.22/dlib-19.22.9
 
 5. simply run your "face_filter.py" file by double-clicking on it and observe the results
 
+## Result
+<img width="614" alt="result" src="https://github.com/masked-slayer/Face-Filter/assets/110539303/7393aef3-457f-4675-a70d-6498cca90877">
+
+  
+![facemarks points](https://github.com/masked-slayer/Face-Filter/assets/110539303/446945d3-4bc5-4fb2-8403-ef55e44069bc)
+
+
 
 
 
